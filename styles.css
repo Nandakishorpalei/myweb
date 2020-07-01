@@ -9,14 +9,11 @@ body{
 }
   .topcontainer {
   background-color: #abf0e9;
-  background-size: auto;
+
   background-image: url("https://www.nationalobserver.com/sites/nationalobserver.com/files/img/2018/12/28/adventure-alpine-alps-714258.jpg");
   margin: 0;
   height: 2000px;
     width:100%;
-}
-.d1{
-widthg:100%;
 }
 .aa{
   height: 100px;
